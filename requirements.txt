@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+colour
+cvxpy
+cycler
+plotly
+pyparsing
+python-dateutil
+pytz
+requests
+six
+tqdm
