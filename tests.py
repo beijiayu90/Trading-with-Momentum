@@ -1,9 +1,9 @@
 import collections
 from collections import OrderedDict
-import copy
 import pandas as pd
 import numpy as np
 from datetime import date, timedelta
+import copy
 
 
 pd.options.display.float_format = '{:.8f}'.format
